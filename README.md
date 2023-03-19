@@ -1,2 +1,2 @@
 # Benjamin_finance_app
-This is an investment platform
+This is the admin of the  investment platform
